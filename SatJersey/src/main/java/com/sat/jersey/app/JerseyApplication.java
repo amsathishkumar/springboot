@@ -12,7 +12,10 @@ public class JerseyApplication {
 
 	public static void main(String[] args) {
 		logger.info("started sathish");
-        SpringApplication.run(JerseyApplication.class,args);
+        //SpringApplication.run(JerseyApplication.class,args);
+        SpringApplication app = new SpringApplication(JerseyApplication.class);
+        app.setLogStartupInfo(false);
+        app.run(args);
 		 
 	}
 }
