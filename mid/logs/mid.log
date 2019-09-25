@@ -1,0 +1,85 @@
+[INFO ] 2019-07-31 22:24:46.135 [main] App - Starting App on TCL60012305950 with PID 38292 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 22:24:46.136 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 22:24:46.137 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 22:24:55.199 [main] App - Started App in 9.574 seconds (JVM running for 22.153)
+[INFO ] 2019-07-31 22:24:55.199 [main] App - Started
+[INFO ] 2019-07-31 22:34:41.416 [main] App - Starting App on TCL60012305950 with PID 38448 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 22:34:41.417 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 22:34:41.418 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 22:34:49.927 [main] App - Started App in 8.942 seconds (JVM running for 23.347)
+[INFO ] 2019-07-31 22:34:49.927 [main] App - Started
+[INFO ] 2019-07-31 22:34:58.200 [http-nio-8442-exec-1] LoginApi - URI Path for POST request: api/login
+[INFO ] 2019-07-31 22:36:38.135 [main] App - Starting App on TCL60012305950 with PID 39524 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 22:36:38.135 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 22:36:38.136 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 22:36:48.213 [main] App - Started App in 10.641 seconds (JVM running for 19.792)
+[INFO ] 2019-07-31 22:36:48.213 [main] App - Started
+[INFO ] 2019-07-31 22:36:58.099 [http-nio-8442-exec-1] LoginApi - URI Path for POST request: api/login
+[INFO ] 2019-07-31 22:40:38.108 [main] App - Starting App on TCL60012305950 with PID 33484 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 22:40:38.109 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 22:40:38.110 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 22:40:50.791 [main] App - Started App in 13.459 seconds (JVM running for 21.86)
+[INFO ] 2019-07-31 22:40:50.791 [main] App - Started
+[INFO ] 2019-07-31 22:41:00.203 [http-nio-8442-exec-1] LoginApi - URI Path for POST request: api/login
+[INFO ] 2019-07-31 22:44:50.749 [main] App - Starting App on TCL60012305950 with PID 36236 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 22:44:50.749 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 22:44:50.750 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 22:44:58.194 [main] SecurityInit - ----------------------Started---------------------------------------
+[INFO ] 2019-07-31 22:44:59.400 [main] App - Started App in 9.178 seconds (JVM running for 20.872)
+[INFO ] 2019-07-31 22:44:59.400 [main] App - Started
+[INFO ] 2019-07-31 22:46:08.941 [main] App - Starting App on TCL60012305950 with PID 4684 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 22:46:08.941 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 22:46:08.942 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 22:46:16.801 [main] SecurityInit - ----------------------Started---------------------------------------
+[INFO ] 2019-07-31 22:46:17.299 [main] App - Started App in 9.066 seconds (JVM running for 15.899)
+[INFO ] 2019-07-31 22:46:17.301 [main] App - Started
+[INFO ] 2019-07-31 22:47:14.511 [http-nio-8442-exec-1] LoginApi - URI Path for POST request: api/login
+[INFO ] 2019-07-31 22:50:11.364 [main] App - Starting App on TCL60012305950 with PID 40856 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 22:50:11.365 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 22:50:11.365 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 22:50:20.775 [main] SecurityInit - ----------------------Started---------------------------------------
+[INFO ] 2019-07-31 22:50:21.435 [main] App - Started App in 10.487 seconds (JVM running for 20.89)
+[INFO ] 2019-07-31 22:50:21.435 [main] App - Started
+[INFO ] 2019-07-31 22:51:05.132 [http-nio-8442-exec-1] LoginApi - URI Path for POST request: api/login
+[INFO ] 2019-07-31 23:04:45.847 [main] App - Starting App on TCL60012305950 with PID 15152 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 23:04:45.847 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 23:04:45.848 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 23:04:53.448 [main] SecurityInit - ----------------------Started---------------------------------------
+[INFO ] 2019-07-31 23:04:54.006 [main] App - Started App in 8.802 seconds (JVM running for 16.147)
+[INFO ] 2019-07-31 23:04:54.007 [main] App - Started
+[INFO ] 2019-07-31 23:05:18.436 [http-nio-8442-exec-1] LoginApi - URI Path for POST request: api/login
+[INFO ] 2019-07-31 23:06:21.967 [main] App - Starting App on TCL60012305950 with PID 30216 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 23:06:21.967 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 23:06:21.968 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 23:06:30.369 [main] SecurityInit - ----------------------Started---------------------------------------
+[INFO ] 2019-07-31 23:06:31.124 [main] App - Started App in 9.591 seconds (JVM running for 18.058)
+[INFO ] 2019-07-31 23:06:31.124 [main] App - Started
+[INFO ] 2019-07-31 23:06:58.999 [http-nio-8442-exec-1] LoginApi - URI Path for POST request: api/login
+[INFO ] 2019-07-31 23:11:23.411 [main] App - Starting App on TCL60012305950 with PID 31204 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 23:11:23.411 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 23:11:23.411 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 23:11:33.413 [main] SecurityInit - ----------------------Started---------------------------------------
+[INFO ] 2019-07-31 23:11:34.113 [main] App - Started App in 11.171 seconds (JVM running for 19.589)
+[INFO ] 2019-07-31 23:11:34.114 [main] App - Started
+[INFO ] 2019-07-31 23:12:39.586 [http-nio-8442-exec-1] LoginApi - URI Path for POST request: api/login
+[INFO ] 2019-07-31 23:14:30.396 [main] App - Starting App on TCL60012305950 with PID 19960 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 23:14:30.397 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 23:14:30.397 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 23:14:37.416 [main] SecurityInit - ----------------------Started---------------------------------------
+[INFO ] 2019-07-31 23:14:38.030 [main] App - Started App in 8.121 seconds (JVM running for 15.53)
+[INFO ] 2019-07-31 23:14:38.030 [main] App - Started
+[INFO ] 2019-07-31 23:15:05.487 [http-nio-8442-exec-1] LoginApi - URI Path for POST request: api/login
+[INFO ] 2019-07-31 23:24:37.867 [main] App - Starting App on TCL60012305950 with PID 8308 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 23:24:37.867 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 23:24:37.868 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 23:24:45.034 [main] SecurityInit - ----------------------Started---------------------------------------
+[INFO ] 2019-07-31 23:24:45.578 [main] App - Started App in 8.244 seconds (JVM running for 25.03)
+[INFO ] 2019-07-31 23:24:45.580 [main] App - Started
+[INFO ] 2019-07-31 23:25:00.753 [http-nio-8442-exec-1] LoginApi - URI Path for POST request: api/login
+[INFO ] 2019-07-31 23:28:46.484 [main] App - Starting App on TCL60012305950 with PID 35608 (E:\satjersery\mid\target\classes started by SatMunia in E:\satjersery\mid)
+[DEBUG] 2019-07-31 23:28:46.492 [main] App - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+[INFO ] 2019-07-31 23:28:46.492 [main] App - No active profile set, falling back to default profiles: default
+[INFO ] 2019-07-31 23:28:52.579 [main] SecurityInit - ----------------------Started---------------------------------------
+[INFO ] 2019-07-31 23:28:53.194 [main] App - Started App in 7.139 seconds (JVM running for 14.146)
+[INFO ] 2019-07-31 23:28:53.196 [main] App - Started
+[INFO ] 2019-07-31 23:29:12.109 [http-nio-8442-exec-1] LoginApi - URI Path for POST request: api/login
